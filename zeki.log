@@ -1,0 +1,4 @@
+2018-07-03 00:29:25,408 [main] DEBUG MainLoggerClass - Hi {}zeki.tel
+2018-07-03 00:29:25,412 [main] INFO  MainLoggerClass - zeki.tel
+2018-07-03 00:29:25,413 [main] WARN  MainLoggerClass - uyarı mesajı
+2018-07-03 00:29:25,414 [main] ERROR MainLoggerClass - hata mesajı
