@@ -2,3 +2,32 @@
 2018-07-03 00:29:25,412 [main] INFO  MainLoggerClass - zeki.tel
 2018-07-03 00:29:25,413 [main] WARN  MainLoggerClass - uyarı mesajı
 2018-07-03 00:29:25,414 [main] ERROR MainLoggerClass - hata mesajı
+2018-07-03 09:57:33,380 [main] DEBUG MainLoggerClass - Hi {}zeki.tel
+2018-07-03 09:57:33,380 [main] INFO  MainLoggerClass - zeki.tel
+2018-07-03 09:57:33,380 [main] WARN  MainLoggerClass - uyarı mesajı
+2018-07-03 09:57:33,380 [main] ERROR MainLoggerClass - hata mesajı
+2018-07-03 11:08:53,821 [main] DEBUG MainLoggerClass - Hi {}zeki.tel
+2018-07-03 11:08:53,821 [main] INFO  MainLoggerClass - zeki.tel
+2018-07-03 11:08:53,821 [main] WARN  MainLoggerClass - uyarı mesajı
+2018-07-03 11:08:53,821 [main] ERROR MainLoggerClass - hata mesajı
+2018-07-03 11:09:26,899 [main] DEBUG MainLoggerClass - Hi {}zeki.tel
+2018-07-03 11:09:26,902 [main] INFO  MainLoggerClass - zeki.tel
+2018-07-03 11:09:26,902 [main] WARN  MainLoggerClass - uyarı mesajı
+2018-07-03 11:09:26,902 [main] ERROR MainLoggerClass - hata mesajı
+2018-07-03 11:23:52,497 [main] DEBUG MainLoggerClass - Hi {}FURKAN
+2018-07-03 11:23:52,513 [main] INFO  MainLoggerClass - FURKAN
+2018-07-03 11:23:52,513 [main] WARN  MainLoggerClass - uyarı mesajı
+2018-07-03 11:23:52,513 [main] ERROR MainLoggerClass - hata mesajı
+2018-07-03 13:52:48,939 [main] DEBUG MainLoggerClass - Hi {}FURKAN
+2018-07-03 13:52:48,941 [main] INFO  MainLoggerClass - FURKAN
+2018-07-03 13:52:48,941 [main] WARN  MainLoggerClass - uyarı mesajı
+2018-07-03 13:52:48,941 [main] ERROR MainLoggerClass - hata mesajı
+2018-07-03 14:40:03,300 [main] DEBUG MainLoggerClass - Hi {}FURKAN
+2018-07-03 14:40:03,300 [main] INFO  MainLoggerClass - FURKAN
+2018-07-03 14:40:03,300 [main] WARN  MainLoggerClass - uyarı mesajı
+2018-07-03 14:40:03,300 [main] ERROR MainLoggerClass - hata mesajı
+2018-07-03 14:40:03,300 [main] INFO  MainLoggerClass - Request Fields: id durum
+2018-07-03 14:40:03,300 [main] INFO  MainLoggerClass - Request Fields: id 
+2018-07-03 14:40:03,300 [main] INFO  MainLoggerClass - Request Fields: id 
+2018-07-03 14:40:03,300 [main] INFO  MainLoggerClass - Request Fields: id 
+2018-07-03 14:40:03,300 [main] INFO  MainLoggerClass - Request Fields: id  acliliyetBilgisi
